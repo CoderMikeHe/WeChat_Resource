@@ -20,17 +20,21 @@
 
 - 本仓库中提供的所有资源，都只能用于学习！任何商用都是违法！且与笔者无关！**别让你肮脏的利欲，熏坏笔者纯洁的初心**
 
+---
+
 ### 项目
 
 以下项目的所有 UI 实现，都是利用本仓库提供的资源来实现的，虽然涉及编程语言涵盖：`iOS Objective-C`、`vue.js`、`Flutter`等，但是丝毫不影响最终的呈现效果。同时也说明了，本项目提供的资源的有效性和实用性，消除大家的疑惑和顾虑，干就完事了！
 
-- [WeChat](https://github.com/CoderMikeHe/WeChat)：**iOS Objective-C 实现的微信 App**
-- [vue-wechat](https://github.com/CoderMikeHe/vue-wechat)：**vue 2.x 实现的微信 App**
-- [flutter_wechat](https://github.com/CoderMikeHe/flutter_wechat)： **Flutter 实现的微信 App**
+- [iOS版WeChat](https://github.com/CoderMikeHe/WeChat)
+- [Vue版WeChat](https://github.com/CoderMikeHe/vue-wechat)
+- [Flutter版WeChat](https://github.com/CoderMikeHe/flutter_wechat)
 
 当然，笔者并非是将`微信`App 所有的 UI 界面都标注和整理了，只是标注了平常常用且有趣的模块罢了，而且也不是每个模块都会去实现，其初心就是为了学习新的编程语言时，有一个比较完整的项目去实战罢了。当然笔者敢保证的是：若能把笔者提供的 UI 设计图全部能用你新学习的编程语言实现，那么你所学习的新的编程语言必定能轻车熟路！
 
 或者，如果你恰巧在学习`iOS/vue/Flutter`其中一项，笔者相信上面👆这几个实战项目，能够更好辅助你上手，带你入门，助你腾飞。请记住：**你只管疯狂输出，而我护你一世周全！！！**
+
+---
 
 ### 期待
 
@@ -39,9 +43,19 @@
 - 如果通过该工程的使用和说明文档的阅读，对你在平时开发中有帮助，码字不易，还请点击右上角`Star`或`Fork`按钮，谢谢。
 - 简书地址：<http://www.jianshu.com/u/126498da7523>
 
+---
+
+### 商业互吹
+
+- [iOS开发技术要点汇总](https://github.com/CoderMikeHe/MHDevelopExample_Objective_C)
+
+---
+
 ### 参考链接
 
 - [国际区号 json（含国家中英文名称、简称、区号、首拼）](https://blog.csdn.net/qq_42532128/article/details/100072000)
+
+---
 
 ### 预览
 
