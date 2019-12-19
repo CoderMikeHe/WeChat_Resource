@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>	<svg height="10px" version="1.1" viewBox="0 0 20 10" width="20px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">				
+    				<!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->				
+    				<title>more</title>				
+    				<desc>Created with Sketch.</desc>				
+    				<defs>			
+        			
+    		</defs>				
+    				<g fill="none" fill-rule="evenodd" id="====slice====" opacity="0.800000012" stroke="none" stroke-width="1">						
+        						<g id="ios" transform="translate(-120.000000, -178.000000)">								
+            								<g id="Icons/Outlined/arrow-Copy-2" transform="translate(129.500000, 183.000000) rotate(-270.000000) translate(-129.500000, -183.000000) translate(125.500000, 176.500000)">										
+                										<g id="Group" transform="translate(0.666667, 0.166667)">												
+                    												<mask fill="white" id="mask-2">														
+                        							
+                    														<g xlink:href="#path-1"/>																			</mask>												
+                    						
+                												<g fill="#C8C8C8" id="图标颜色" transform="translate(3.350653, 5.837725) rotate(-180.000000) translate(-3.350653, -5.837725) " xlink:href="#path-1">																					<path d="M6.32292394,10.358243 L5.43904047,11.2421265 L0.623292938,6.42637894 C0.298188523,6.10127452 0.295304822,5.57705982 0.623292938,5.24907171 L5.43904047,0.433324178 L6.32292394,1.31720765 L1.80240627,5.83772532 L6.32292394,10.358243 Z" id="path-1"/>																			</g>																</g>										
+            								</g>								
+        						</g>						
+    				</g>				
+		</svg>
