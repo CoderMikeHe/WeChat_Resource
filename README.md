@@ -75,7 +75,7 @@
 
 | ![](./snapshots/mainframe/mainframe_page_0.png) | ![](./snapshots/mainframe/mainframe_page_1.png) | ![](./snapshots/mainframe/mainframe_page_2.png) |
 | :---------------------------------------------: | :---------------------------------------------: | :---------------------------------------------: |
-| ![](./snapshots/mainframe/mainframe_page_3.png) | ![](./gif/mainframe/mainframe_page.gif)                     |                    虚位以待                     |
+| ![](./snapshots/mainframe/mainframe_page_3.png) | ![](./gif/mainframe/mainframe_page.gif)                     |                    ![](./snapshots/mainframe/mainframe_page_4.png)                     |
 
 ###### 通讯录模块
 
