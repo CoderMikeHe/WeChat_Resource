@@ -1,0 +1,23 @@
+<MKM version="2.0" imageFileUrl="file:///Users/admin/Desktop/CoderMikeHe/Repository/WeChat_Resource/UI/v7.0.0+/moments/moments_page_0.png">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="364" x="962" y="960"/>
+    <LengthMark direction="3" color="16711680" length="301" x="1111" y="1023"/>
+    <LengthMark direction="3" color="16711680" length="210" x="1081" y="814"/>
+    <LengthMark direction="12" color="16711680" length="210" x="995" y="907"/>
+    <LengthMark direction="3" color="16711680" length="43" x="789" y="918"/>
+    <LengthMark direction="3" color="16711680" length="49" x="558" y="872"/>
+    <LengthMark direction="12" color="16711680" length="73" x="923" y="901"/>
+    <LengthMark direction="3" color="16711680" length="120" x="790" y="1158"/>
+    <LengthMark direction="3" color="16711680" length="42" x="599" y="1197"/>
+    <LengthMark direction="3" color="16711680" length="15" x="437" y="1157"/>
+    <LengthMark direction="3" color="16711680" length="15" x="448" y="1264"/>
+    <LengthMark direction="12" color="16711680" length="15" x="350" y="1208"/>
+    <LengthMark direction="3" color="16711680" length="32" x="834" y="1200"/>
+    <LengthMark direction="3" color="16711680" length="45" x="642" y="1278"/>
+    <LengthMark direction="3" color="16711680" length="198" x="620" y="960"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="6316128" offsetX="25" offsetY="10" x="485" y="1184"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16777215" offsetX="39" offsetY="39" x="634" y="1220"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="2302755" offsetX="25" offsetY="10" x="48" y="1001"/>
+    <LengthMark direction="3" color="16711680" length="45" x="149" y="1321"/>
+  </Marks>
+</MKM>
