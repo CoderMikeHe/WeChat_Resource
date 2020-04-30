@@ -38,5 +38,7 @@
     <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="5750378" offsetX="25" offsetY="10" x="455" y="2129"/>
     <LengthMark direction="12" color="16711680" length="208" x="-1" y="1899"/>
     <LengthMark direction="12" color="16711680" length="19" x="1202" y="1634"/>
+    <LengthMark direction="3" color="16711680" length="168" x="427" y="1128"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="1710618" offsetX="25" offsetY="10" x="290" y="1661"/>
   </Marks>
 </MKM>
