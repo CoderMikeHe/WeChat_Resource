@@ -1,0 +1,9 @@
+<MKM version="2.0" imageFileUrl="file:///Users/heqianyuan/Desktop/CoderMikeHe/GitHubRepo/WeChat_Resource/UI/v7.0.0+/search/search_page_light_4.jpg">
+  <Marks>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="6710886" offsetX="25" offsetY="10" x="624" y="1122"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16777215" offsetX="25" offsetY="10" x="684" y="1141"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="10921638" offsetX="25" offsetY="10" x="693" y="1257"/>
+    <LengthMark direction="3" color="16711680" length="72" x="648" y="1264"/>
+    <LengthMark direction="3" color="16711680" length="15" x="618" y="1216"/>
+  </Marks>
+</MKM>
