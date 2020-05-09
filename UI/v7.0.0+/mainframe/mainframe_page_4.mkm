@@ -31,9 +31,7 @@
     <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="6710886" offsetX="25" offsetY="10" x="637" y="1108"/>
     <LengthMark direction="3" color="16711680" length="68" x="631" y="1096"/>
     <LengthMark direction="3" color="16711680" length="121" x="606" y="1215"/>
-    <LengthMark direction="3" color="16711680" length="220" x="617" y="1045"/>
     <LengthMark direction="3" color="16711680" length="172" x="602" y="1045"/>
-    <LengthMark direction="3" color="16711680" length="222" x="632" y="1045"/>
     <LengthMark direction="3" color="16711680" length="51" x="212" y="98"/>
     <LengthMark direction="12" color="16711680" length="135" x="0" y="150"/>
     <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="11776947" offsetX="25" offsetY="10" x="165" y="102"/>
