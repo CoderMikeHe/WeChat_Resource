@@ -1,6 +1,15 @@
-<MKM version="2.0" imageFileUrl="file:///Users/heqianyuan/Desktop/CoderMikeHe/GitHubRepo/WeChat_Resource/UI/v7.0.0+/search/search_page_light_1.jpg">
+<MKM version="2.0" imageFileUrl="file:///Users/admin/Desktop/CoderMikeHe/Repository/WeChat_Resource/UI/v7.0.0+/search/search_page_light_1.jpg">
   <Marks>
-    <LengthMark direction="3" color="16711680" length="134" x="320" y="209"/>
+    <LengthMark direction="3" color="16711680" length="133" x="320" y="209"/>
     <LengthMark direction="3" color="16711680" length="42" x="220" y="259"/>
+    <LengthMark direction="12" color="16711680" length="60" x="0" y="334"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="8421504" offsetX="25" offsetY="10" x="143" y="274"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="15132390" offsetX="25" offsetY="10" x="348" y="341"/>
+    <LengthMark direction="3" color="16711680" length="59" x="122" y="340"/>
+    <LengthMark direction="3" color="16711680" length="61" x="126" y="446"/>
+    <LengthMark direction="3" color="16711680" length="60" x="129" y="553"/>
+    <LengthMark direction="3" color="16711680" length="60" x="131" y="767"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="5991057" offsetX="25" offsetY="10" x="183" y="516"/>
+    <LengthMark direction="3" color="16711680" length="42" x="353" y="617"/>
   </Marks>
 </MKM>

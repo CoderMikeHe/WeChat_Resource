@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Icons_Filled_DelEmoji</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons_Filled_DelEmoji" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组">
+            <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+            <g id="Group" transform="translate(2.000000, 4.000000)" fill="#000000">
+                <path d="M6.46968634,0 L18.5,0 C19.3284271,0 20,0.671572875 20,1.5 L20,14.5 C20,15.3284271 19.3284271,16 18.5,16 L6.46968634,16 C6.00243008,16 5.56186102,15.7822564 5.27806189,15.4110605 L0.30846515,8.91106046 C-0.102702246,8.37327275 -0.102702246,7.62672725 0.30846515,7.08893954 L5.27806189,0.58893954 C5.56186102,0.217743552 6.00243008,0 6.46968634,0 Z M12,7 L9,4 L8,5 L11,8 L8,11 L9,12 L12,9 L15,12 L16,11 L13,8 L16,5 L15,4 L12,7 Z" id="形状结合"></path>
+            </g>
+        </g>
+    </g>
+</svg>

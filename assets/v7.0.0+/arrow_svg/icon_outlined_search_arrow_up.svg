@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>	<svg height="12px" version="1.1" viewBox="0 0 24 12" width="24px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">		
+    		<!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->		
+    		<title>画板 copy 18</title>		
+    		<desc>Created with Sketch.</desc>		
+    		<defs>			
+        			
+    		</defs>		
+    		<g fill="none" fill-rule="evenodd" id="画板-copy-18" stroke="none" stroke-width="1">			
+        			<g id="3.Icons/Outlined/arrow" transform="translate(12.000000, 6.000000) scale(1, -1) rotate(-270.000000) translate(-12.000000, -6.000000) translate(6.000000, -6.000000)">				
+            				<g id="Group" transform="translate(2.000000, 5.000000)">					
+                					<mask fill="white" id="mask-2">						
+                    						
+                						<g xlink:href="#path-1"/>					</mask>					
+                					
+            					<g fill="#000000" fill-opacity="0.3" id="图标颜色" transform="translate(4.020784, 7.005270) rotate(-180.000000) translate(-4.020784, -7.005270) " xlink:href="#path-1">						<path d="M7.58750873,12.4298916 L6.52684856,13.4905518 L0.747951526,7.71165473 C0.357826227,7.32152943 0.354365786,6.69247179 0.747951526,6.29888605 L6.52684856,0.519989014 L7.58750873,1.58064919 L2.16288753,7.00527039 L7.58750873,12.4298916 Z" id="path-1"/>					</g>				</g>				
+        			</g>			
+    		</g>		
+	</svg>

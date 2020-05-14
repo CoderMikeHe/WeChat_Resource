@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>画板</title>
+    <desc>Created with Sketch.</desc>
+    <g id="画板" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组">
+            <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+            <path d="M15.5719955,13.4038376 L14.5113354,14.4644978 L8.73243832,8.68560075 C8.34231302,8.29547545 8.33885258,7.66641781 8.73243832,7.27283207 L14.5113354,1.49393503 L15.5719955,2.5545952 L10.1473743,7.97921641 L15.5719955,13.4038376 Z" id="图标颜色" fill-opacity="0.9" fill="#000000" transform="translate(12.005270, 7.979216) rotate(-270.000000) translate(-12.005270, -7.979216) "></path>
+            <path d="M15.5719955,20.9038376 L14.5113354,21.9644978 L8.73243832,16.1856007 C8.34231302,15.7954754 8.33885258,15.1664178 8.73243832,14.7728321 L14.5113354,8.99393503 L15.5719955,10.0545952 L10.1473743,15.4792164 L15.5719955,20.9038376 Z" id="图标颜色" fill-opacity="0.9" fill="#000000" transform="translate(12.005270, 15.479216) rotate(-270.000000) translate(-12.005270, -15.479216) "></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>icon_arrow_down</title>
+    <desc>Created with Sketch.</desc>
+    <g id="漏读提示" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-11-Pro-Max" transform="translate(-250.000000, -251.000000)">
+            <g id="编组-5" transform="translate(0.000000, 166.000000)">
+                <g id="编组-3" transform="translate(0.000000, 32.000000)">
+                    <g id="编组" transform="translate(134.000000, 44.000000)">
+                        <g id="编组-4" transform="translate(24.000000, 6.000000)">
+                            <g id="编组-2" transform="translate(92.000000, 3.000000)">
+                                <rect id="矩形" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="14" height="14"></rect>
+                                <path d="M3,3 L6.64644661,6.64644661 C6.84170876,6.84170876 7.15829124,6.84170876 7.35355339,6.64644661 L11,3 L11,3" id="路径" stroke="#06AD56"></path>
+                                <path d="M3,8 L6.64644661,11.6464466 C6.84170876,11.8417088 7.15829124,11.8417088 7.35355339,11.6464466 L11,8 L11,8" id="路径备份" stroke="#06AD56"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
