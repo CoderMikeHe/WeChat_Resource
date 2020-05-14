@@ -1,0 +1,12 @@
+<MKM version="2.0" imageFileUrl="file:///Users/heqianyuan/Desktop/CoderMikeHe/GitHubRepo/WeChat_Resource/UI/v7.0.0+/search/search_page_light_10.jpg">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="174" x="863" y="1953"/>
+    <LengthMark direction="12" color="16711680" length="18" x="533" y="2031"/>
+    <LengthMark direction="3" color="16711680" length="47" x="510" y="2016"/>
+    <LengthMark direction="12" color="16711680" length="42" x="489" y="2028"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="8421504" offsetX="25" offsetY="10" x="745" y="2024"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="8421504" offsetX="25" offsetY="10" x="521" y="2049"/>
+    <LengthMark direction="3" color="16711680" length="48" x="694" y="2013"/>
+    <LengthMark direction="3" color="16711680" length="86" x="636" y="2123"/>
+  </Marks>
+</MKM>
