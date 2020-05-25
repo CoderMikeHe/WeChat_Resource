@@ -1,6 +1,21 @@
-<MKM version="2.0" imageFileUrl="file:///Users/heqianyuan/Desktop/CoderMikeHe/GitHubRepo/WeChat_Resource/UI/v7.0.0+/search/search_page_light_15.jpg">
+<MKM version="2.0" imageFileUrl="file:///Users/admin/Desktop/CoderMikeHe/Repository/WeChat_Resource/UI/v7.0.0+/search/search_page_light_15.jpg">
   <Marks>
     <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="1710618" offsetX="25" offsetY="10" x="390" y="1688"/>
     <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="1710618" offsetX="25" offsetY="10" x="341" y="1330"/>
+    <LengthMark direction="12" color="16711680" length="45" x="163" y="1319"/>
+    <LengthMark direction="3" color="16711680" length="217" x="957" y="1241"/>
+    <LengthMark direction="3" color="16711680" length="41" x="1153" y="1329"/>
+    <LengthMark direction="12" color="16711680" length="52" x="58" y="1526"/>
+    <LengthMark direction="12" color="16711680" length="36" x="110" y="1521"/>
+    <LengthMark direction="3" color="16711680" length="42" x="256" y="1511"/>
+    <LengthMark direction="3" color="16711680" length="152" x="703" y="1457"/>
+    <LengthMark direction="12" color="16711680" length="66" x="1176" y="1357"/>
+    <LengthMark direction="3" color="16711680" length="40" x="494" y="1367"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="8421504" offsetX="25" offsetY="10" x="663" y="1374"/>
+    <LengthMark direction="3" color="16711680" length="51" x="240" y="1290"/>
+    <LengthMark direction="3" color="16711680" length="40" x="392" y="1963"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="9803157" offsetX="25" offsetY="10" x="94" y="1693"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="15162712" offsetX="25" offsetY="10" x="132" y="1384"/>
+    <LengthMark direction="3" color="16711680" length="117" x="728" y="2057"/>
   </Marks>
 </MKM>
