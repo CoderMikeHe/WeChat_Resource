@@ -1,5 +1,7 @@
-<MKM version="2.0" imageFileUrl="file:///Users/admin/Desktop/CoderMikeHe/Repository/WeChat_Resource/UI/v7.0.0+/moments/moments_page_3.png">
+<MKM version="2.0" imageFileUrl="file:///Users/heqianyuan/Desktop/CoderMikeHe/GitHubRepo/WeChat_Resource/UI/v7.0.0+/moments/moments_page_3.png">
   <Marks>
     <LengthMark direction="3" color="16711680" length="44" x="141" y="480"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16250871" offsetX="25" offsetY="10" x="1085" y="845"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="15132133" offsetX="25" offsetY="10" x="459" y="480"/>
   </Marks>
 </MKM>
