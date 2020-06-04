@@ -1,0 +1,21 @@
+<MKM version="2.0" imageFileUrl="file:///Users/heqianyuan/Desktop/CoderMikeHe/GitHubRepo/WeChat_Resource/UI/v7.0.0+/profile/setting/setting_page_light_1.jpg">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="167" x="924" y="2040"/>
+    <LengthMark direction="3" color="16711680" length="168" x="998" y="1851"/>
+    <LengthMark direction="3" color="16711680" length="195" x="1102" y="1656"/>
+    <LengthMark direction="3" color="16711680" length="39" x="1011" y="1735"/>
+    <LengthMark direction="3" color="16711680" length="554" x="887" y="1655"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="13914183" offsetX="25" offsetY="10" x="696" y="1934"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="1710618" offsetX="25" offsetY="10" x="663" y="2129"/>
+    <LengthMark direction="3" color="16711680" length="48" x="555" y="1913"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="8421504" offsetX="25" offsetY="10" x="370" y="1753"/>
+    <LengthMark direction="3" color="16711680" length="33" x="1206" y="1655"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16777215" offsetX="25" offsetY="10" x="342" y="1925"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16777215" offsetX="25" offsetY="10" x="345" y="1806"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16777215" offsetX="25" offsetY="10" x="357" y="2126"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16250871" offsetX="25" offsetY="10" x="828" y="2030"/>
+    <LengthMark direction="3" color="16711680" length="24" x="1088" y="2018"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="15066597" offsetX="25" offsetY="10" x="753" y="1850"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16250871" offsetX="25" offsetY="10" x="750" y="2031"/>
+  </Marks>
+</MKM>
