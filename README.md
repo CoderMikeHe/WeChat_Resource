@@ -59,6 +59,12 @@
 
 ### iOS 预览
 
+###### 微信模块
+
+| ![](./gif/mainframe/ios_mainframe_pulldown_applet_page.gif) | 虚位以待 | 虚位以待 | 虚位以待 |
+| :---------------------------------------------------------: | :------: | :------: | :------: |
+
+
 ###### 通讯录模块
 
 | ![](./snapshots/contacts/ios_contacts_page_0.png) | ![](./snapshots/contacts/ios_contacts_page_1.png) | 虚位以待 | 虚位以待 |
