@@ -1,5 +1,7 @@
 <MKM version="2.0" imageFileUrl="file:///Users/admin/Desktop/CoderMikeHe/Repository/WeChat_Resource/UI/v7.0.0+/profile/video_trends/video_trends_page_light_0.jpg">
   <Marks>
     <LengthMark direction="3" color="16711680" length="492" x="927" y="0"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="4626912" offsetX="25" offsetY="10" x="849" y="180"/>
+    <LengthMark direction="3" color="16711680" length="51" x="646" y="172"/>
   </Marks>
 </MKM>
