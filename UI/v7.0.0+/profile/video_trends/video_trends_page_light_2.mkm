@@ -1,0 +1,8 @@
+<MKM version="2.0" imageFileUrl="file:///Users/heqianyuan/Desktop/CoderMikeHe/GitHubRepo/WeChat_Resource/UI/v7.0.0+/profile/video_trends/video_trends_page_light_2.jpg">
+  <Marks>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="14013909" offsetX="25" offsetY="10" x="588" y="1805"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="14013909" offsetX="25" offsetY="10" x="673" y="1832"/>
+    <LengthMark direction="3" color="16711680" length="144" x="492" y="1692"/>
+    <LengthMark direction="12" color="16711680" length="583" x="329" y="1758"/>
+  </Marks>
+</MKM>
